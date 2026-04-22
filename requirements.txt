@@ -1,0 +1,20 @@
+# Sistema de Deteccao de Fadiga e Sonolencia
+# Dependencias do projeto
+
+# Visao Computacional
+opencv-python>=4.7.0
+mediapipe>=0.10.0
+
+# Computacao Numerica
+numpy>=1.24.0
+
+# Deep Learning / Machine Learning
+
+tensorflow>=2.12.0
+scikit-learn>=1.2.0
+
+# Audio
+pygame>=2.5.0
+
+# Visualizacao (opcional)
+matplotlib>=3.7.0
